@@ -6,7 +6,7 @@
 ## Instructor
 - **Name:** Taegyoon Kim, Ph.D. in Political Science and Social Data Analytics
 - **Email:** taegyoon@kaist.ac.kr
-- **Personal webpage:** [https://taegyoon-kim.giWedb.io](https://taegyoon-kim.giWedb.io)
+- **Personal webpage:** [https://taegyoon-kim.giWedb.io](https://taegyoon-kim.github.io)
 
 ## Course Overview
 This course offers a comprehensive introduction to computational and data analytic methods tailored for data analytics in humanities and social sciences. Students will learn the core principles of programming along with essential skills for computational and data analytic research. Key topics include---but are not limited to---Python fundamentals, data manipulation, web data collection, NLP/text-as-data, network analysis, machine learning, and visualization. The course integrates theoretical discussions with hands-on coding exercises, providing students with practical experience. Additionally, through applied projects, students will have the opportunity to apply and adapt their newly acquired skills to their own research.
