@@ -1,7 +1,7 @@
 # HSS 611: Computational and Data Analytic Methods for Humanities and Social Sciences
 
 **Mon Wed 10:30–11:45pm**  
-**Classroom 1309, N4 School of Digital Humanities and Computational Social Sciences**
+**TBD, N4 School of Digital Humanities and Computational Social Sciences**
 
 ## Instructor
 - **Name:** Taegyoon Kim, Ph.D. in Political Science and Social Data Analytics
