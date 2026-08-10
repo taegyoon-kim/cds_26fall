@@ -157,9 +157,11 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
 
 ### Week 15: Nov 30 & Dec 2
 - **Mon & Wed:** Machine learning I
+  - ⭐ In-class exercise: [[link]]()
 
 ### Week 15: Nov 7 & Dec 9
 - **Mon & Wed:** Machine learning II
+  - ⭐ In-class exercise: [[link]]()
 
 ### Week 16: Dec 14 & 16
 - **Mon & Wed:** Poster session
