@@ -3,15 +3,24 @@
 **Mon Wed 10:30–11:45pm**  
 **1309, N4 School of Digital Humanities and Computational Social Sciences**
 
+
+
 ## Instructor
+
 - **Name:** Taegyoon Kim, Ph.D. in Political Science and Social Data Analytics
 - **Email:** taegyoon@kaist.ac.kr
 - **Personal webpage:** [https://taegyoon-kim.github.io](https://taegyoon-kim.github.io)
 
+
+
 ## Course Overview
+
 This course offers a comprehensive introduction to computational and data analytic methods tailored for data analytics in humanities and social sciences. Students will learn the core principles of programming along with essential skills for computational and data analytic research. Key topics include---but are not limited to---programming fundamentals, data manipulation, web data collection, NLP/text-as-data, network analysis, machine learning, and visualization. The course integrates theoretical discussions with hands-on coding exercises, providing students with practical experience. Additionally, through applied projects, students will have the opportunity to apply and adapt their newly acquired skills to their own research.
 
+
+
 ## Readings
+
 Students are not required to purchase any books for this course as it will not follow any textbook strictly. However, here are useful books:
 
 - McKinney, W., 2022. *Python for Data Analysis*. O'Reilly Media, Inc. [link](https://jakevdp.giWedb.io/PythonDataScienceHandbook/)
@@ -25,14 +34,18 @@ Students are not required to purchase any books for this course as it will not f
 - Menczer, F., Fortunato, S. and Davis, C. A., 2020. *A First Course in Network Science*. Cambridge University Press. [link](https://www.cambridge.org/highereducation/books/first-course-in-network-science/EE22722F27519D8BB1443C7225C57BAF)
 
 
+
 ## Major Tasks
 
 See below for the major tasks in the course.
 
 - **Attendance:** Students are required to attend all lectures unless they have exceptional circumstances that they have discussed with the instructor beforehand. Worth 10% of the final grade.
-- **Take-home Exercises:** There will be several exercises for Python fundamentals. The due dates are indicated in the weekly schedule below. Upload your completed exercise to [the take-home exercises folder](). At the end of Week 4, there will be an in-class quiz on the fundamentals covered in the exercises, to be completed without AI assistance. Worth 25% of the final grade.
+- **Programming Exercises:** Students will complete a series of take-home exercises covering core Python fundamentals, including branching and iteration; string manipulation; tuples and lists; functions, modules, and exceptions; dictionaries, sets, and recursion; and NumPy and Pandas. These exercises are designed to develop independent programming and problem-solving skills. Because developing these skills is a primary objective of the exercises, the use of AI tools is not permitted. Due dates are indicated in the weekly schedule below. Upload your completed exercises to [the take-home exercises folder](). Worth 5% of the final grade.
+- **Programming Quizzes:** There will be two in-class quizzes covering the programming fundamentals taught in the course. The quizzes will be held on **Sep 16** and **Sep 30** and must be completed without the use of AI tools. Worth 15% of the final grade.
+- **Analytic Exercises:** There will be three take-home exercises covering the methods introduced from Sep 28 onward.
 - **Tutorial Presentation:** Students will deliver one tutorial presentation for approximately 10–15 minutes. Worth 25% of the final grade. [See details below.](#tutorial-presentation-details)
-- **Final Project:** Students must complete an original research paper that involves a significant amount of data work and present it during the final week of the course. The paper and presentation are worth 30% and 10% of the final grade, respectively. [See details below.](#final-project-details)
+- **Final Project:** Students must complete an original research paper that involves a significant amount of data work and present it during the final week of the course (poster session). The paper and presentation are worth 30% and 10% of the final grade, respectively. [See details below.](#final-project-details)
+
 
 
 ### Tutorial Presentation Details
@@ -52,6 +65,7 @@ See below for the major tasks in the course.
   - Before your presentation, upload your script and data to [the tutorial materials folder]() and make sure they are accessible to the class so that everyone can follow along during the tutorial..
 
 
+
 ### Final Project Details
 
 - Overview
@@ -64,8 +78,9 @@ See below for the major tasks in the course.
   - Collaborative projects are allowed. However, if the project involves collaborators, students must clearly describe their own independent contributions to the project. A one-page contribution statement, signed by all collaborators, must be included in the final paper.
 
 - Timeline and materials
-  - Students are required to submit a one-page project proposal to [the proposals folder]() by Oct 12 at 11:59pm  and will have a one-on-one meeting with the instructor to discuss their ideas in Week 7. Please sign up for your one-on-one meeting using [this spreadsheet]().
+  - Students are required to submit a one-page project proposal to [the proposals folder]() by Oct 10 at 11:59pm  and will have a one-on-one meeting with the instructor to discuss their ideas in Week 7. Please sign up for your one-on-one meeting using [this spreadsheet]().
   - Students will deliver a short presentation of their papers (10 minutes) in the final week of the course. The paper should be around 3,000 words in length—excluding figures, tables, and appendices—and should be uploaded, along with replication materials, to [the final projects folder]() by the end of the semester (Dec 19 11:59pm).
+
 
 
 ## AI Use Policy
@@ -81,6 +96,7 @@ Recommended use: AI tools may be helpful when used carefully. Here are some reco
 - Validate, validate, and validate: Never use AI-assisted code without reviewing each line. Make sure the code you write does exactly what you intend.
 
 Finally, be sure to indicate whether and how you used AI in any work you submit, including take-home exercises, tutorials, and final projects.
+
 
 
 ## Grading Scale
@@ -102,90 +118,120 @@ Grade values will not be rounded. That is, any grade value that is greater than 
 | D-    | 57    | 60    |
 | F     | 0     | 57    |
 
+
+
 ## Course Schedule
+
 The course schedule is detailed in the weekly breakdown below. **The course slides can be found [here](https://rpubs.com/taegyoon)** (see [here]() for the source files).
 
+
 ### Week 1: Aug 31 & Sep 2
+
 - **Mon:** Course overview, logistics, self-introductions, etc.
+
 - **Wed:** Branching and iteration
-  - ⭐ Take-home exercise 1 questions (due date: 11:59pm Sep 9) [[link]]()
-  - 🌟 Take-home exercise 1 example solutions [[link]]()
+  - ⭐ Take-home exercise 1 questions (due date: 11:59pm Sep 9) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
+  - 🌟 Take-home exercise 1 example solutions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
+
 
 ### Week 2: Sep 7 & 9
+
 - **Mon:** String manipulation, tuples, and lists
-  - ⭐ Take-home exercise 2 questions (due date: 11:59pm Sep 14) [[link]]()
-  - 🌟 Take-home exercise 2 example solutions [[link]]()
+  - ⭐ Take-home exercise 2 questions (due date: 11:59pm Sep 14) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
+  - 🌟 Take-home exercise 2 example solutions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
+
 - **Wed:** Functions, modules, and exceptions
-  - ⭐ Take-home exercise 3 questions (due date: 11:59pm Sep 16) [[link]]()
-  - 🌟 Take-home exercise 3 example solutions [[link]]()
+  - ⭐ Take-home exercise 3 questions (due date: 11:59pm Sep 16) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
+  - 🌟 Take-home exercise 3 example solutions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
+
 
 ### Week 3: Sep 14 & 16
+
 - **Mon:** Dictionaries, sets, and recursion
-  - ⭐ Take-home exercise 4 questions (due date: 11:59pm Sep 21) [[link]]()
-  - 🌟 Take-home exercise 4 example solutions [[link]]()
-- **Wed:** Python Fundamentals Quiz I
-  - ⭐ Quiz [[link]]()
-  - 🌟 Quiz example solutions [[link]]()
+  - ⭐ Take-home exercise 4 questions (due date: 11:59pm Sep 21) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
+  - 🌟 Take-home exercise 4 example solutions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
+
+- **Wed:** NumPy and Pandas I
+  - ⭐ Take-home exercise 5 questions (due date: 11:59pm Sep 23) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
+  - 🌟 Take-home exercise 5 example solutions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
+
 
 ### Week 4: Sep 21 & 23
-- **Mon:** NumPy and Pandas I
-  - ⭐ Take-home exercise 5 questions (due date: 11:59pm Sep 23) [[link]]()
-  - 🌟 Take-home exercise 5 example solutions [[link]]()
-- **Wed:** NumPy and Pandas II
-  - ⭐ Take-home exercise 6 questions (due date: 11:59pm Sep 28) [[link]]()
-  - 🌟 Take-home exercise 6 example solutions [[link]]()
+
+- **Mon:** NumPy and Pandas II
+  - ⭐ Take-home exercise 6 questions (due date: 11:59pm Sep 28) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
+  - 🌟 Take-home exercise 6 example solutions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
+
+- **Wed:** Python Fundamentals Quiz 
+  - ⭐ Quiz [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
+
 
 ### Week 5: Sep 28 & 30
-- **Mon:** NumPy and Pandas III
-- **Wed:** Python Fundamentals Quiz II
-  - ⭐ Quiz [[link]]()
-  - 🌟 Quiz example solutions [[link]]()
 
-### Week 5: Sep 28 & 30
 - **Mon & Wed:** Visualization
-  - Lecture notebook: [[link]](https://colab.research.google.com/drive/1wT1f3_75grPgqv6Ea0BAvMELB5v8f_UF?usp=sharing)
-  - ⭐ In-class exercise [[link]](https://colab.research.google.com/drive/1QS27PH-Paw8Gi45ErRepq5F67sOToTVR?usp=sharing)
-  - 🌟 In-class exercise example solutions [[link]](https://colab.research.google.com/drive/1QTJY6Mz4dTMxSFFNr_Ms17XhbVEVl13t?usp=sharing) 
+  - [Lecture notebook]()
+  - ⭐ In-class exercise [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
 
 ### Week 6: Oct 5 & 7
+
 - **Mon:** No class (substitute holiday)
-- **Wed:** Guest lecture (TBD)
-  
+
+- **Wed:** Guest lecture (topic TBD)
+
+
 ### Week 7: Oct 12 & Oct 14
+
 - **Mon:** One-on-one proposal meetings I
+
 - **Wed:** One-on-one proposal meetings II
 
+  
 ### Week 8: Oct 19 & 21
+
 - **Mon & Wed:** No class (mid-term examination period)
 
+
 ### Week 9: Oct 26 & 28
-- **Mon & Wed:** Interacting with API (Application Programming Interface)
-  - Lecture notebook: [[link]]()
-  - ⭐ In-class exercise: [[link]]()
 
-### Week 10: Nov 2 & Nov 4
+- **Mon & Wed:** Interacting with API
+  - [Lecture notebook]()
+  - ⭐ In-class exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
+
+ 
+### Week 10: Nov 2 & 4
+
 - **Mon & Wed:** Web scraping
-  - ⭐ In-class exercise: [[link]]()
+  - [Lecture notebook]()
+  - ⭐ In-class exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
 
-### Week 14: Nov 9 & Dec 11
+
+### Week 11: Nov 9 & 11
+
 - **Mon & Wed:** Network analysis
-  - ⭐ In-class exercise: [[link]]()
+  - ⭐ In-class exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
 
-### Week 11: Nov 16 & 18
-- **Mon & Wed:** Text-as-data/NLP I
-  - ⭐ In-class exercise: [[link]]()
 
-### Week 12: Nov 23 & 25
-- **Mon & Wed:** Text-as-data/NLP II
-  - ⭐ In-class exercise: [[link]]()
+### Week 12: Nov 16 & 18
 
-### Week 15: Nov 30 & Dec 2
-- **Mon & Wed:** Machine learning I
-  - ⭐ In-class exercise: [[link]]()
+- **Mon & Wed:** Text-as-data/NLP/LLM I
+  - ⭐ In-class exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
 
-### Week 15: Nov 7 & Dec 9
-- **Mon & Wed:** Machine learning II
-  - ⭐ In-class exercise: [[link]]()
+
+### Week 13: Nov 23 & 25
+
+- **Mon & Wed:** Text-as-data/NLP/LLM II
+  - ⭐ In-class exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
+
+
+### Week 14: Nov 30 & Dec 2
+
+- **Mon & Wed:** Machine learning I (supervised)
+  - ⭐ In-class exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
+
+
+### Week 15: Dec 7 & Dec 9
+- **Mon & Wed:** Machine learning II (unsupervised)
+  - ⭐ In-class exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
 
 ### Week 16: Dec 14 & 16
 - **Mon & Wed:** Poster session
