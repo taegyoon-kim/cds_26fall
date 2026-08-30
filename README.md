@@ -15,7 +15,7 @@
 
 ## Course Overview
 
-This course offers a comprehensive introduction to computational and data analytic methods tailored for data analytics in humanities and social sciences. Students will learn the core principles of programming along with essential skills for computational and data analytic research. Key topics include---but are not limited to---programming fundamentals, data manipulation, web data collection, NLP/text-as-data, network analysis, machine learning, and visualization. The course integrates theoretical discussions with hands-on coding exercises, providing students with practical experience. Additionally, through applied projects, students will have the opportunity to apply and adapt their newly acquired skills to their own research.
+This course offers a comprehensive introduction to computational and data analytic methods tailored for data analytics in humanities and social sciences. Students will learn the core principles of programming along with essential skills for computational and data analytic research. Key topics include---but are not limited to---programming fundamentals, data manipulation, web data collection, text-as-data/NLP/LLM, network analysis, machine learning, and visualization. The course integrates theoretical discussions with hands-on coding exercises, providing students with practical experience. Additionally, through applied projects, students will have the opportunity to apply and adapt their newly acquired skills to their own research.
 
 
 
@@ -40,10 +40,14 @@ Students are not required to purchase any books for this course as it will not f
 See below for the major tasks in the course.
 
 - **Attendance:** Students are required to attend all lectures unless they have exceptional circumstances that they have discussed with the instructor beforehand. Worth 10% of the final grade.
+
 - **Programming Exercises:** Students will complete a series of take-home exercises covering core Python fundamentals, including branching and iteration; string manipulation; tuples and lists; functions, modules, and exceptions; dictionaries, sets, and recursion; and NumPy and Pandas. These exercises are designed to develop independent programming and problem-solving skills. Because developing these skills is a primary objective of the exercises, the use of AI tools is not permitted. Due dates are indicated in the weekly schedule below. Upload your completed exercises to [the take-home exercises folder](). Worth 5% of the final grade.
+
 - **Programming Quizzes:** There will be two in-class quizzes covering the programming fundamentals taught in the course. The quizzes will be held on **Sep 16** and **Sep 30** and must be completed without the use of AI tools. Worth 15% of the final grade.
 - **Analytic Exercises:** There will be three take-home exercises covering the methods introduced from Sep 28 onward.
+
 - **Tutorial Presentation:** Students will deliver one tutorial presentation for approximately 10–15 minutes. Worth 25% of the final grade. [See details below.](#tutorial-presentation-details)
+
 - **Final Project:** Students must complete an original research paper that involves a significant amount of data work and present it during the final week of the course (poster session). The paper and presentation are worth 30% and 10% of the final grade, respectively. [See details below.](#final-project-details)
 
 
