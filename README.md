@@ -1,7 +1,7 @@
 # HSS 611: Computational and Data Analytic Methods for Humanities and Social Sciences
 
 **Mon Wed 10:30–11:45pm**  
-**TBD, N4 School of Digital Humanities and Computational Social Sciences**
+**1309, N4 School of Digital Humanities and Computational Social Sciences**
 
 ## Instructor
 - **Name:** Taegyoon Kim, Ph.D. in Political Science and Social Data Analytics
@@ -9,51 +9,75 @@
 - **Personal webpage:** [https://taegyoon-kim.github.io](https://taegyoon-kim.github.io)
 
 ## Course Overview
-This course offers a comprehensive introduction to computational and data analytic methods tailored for data analytics in humanities and social sciences. Students will learn the core principles of programming along with essential skills for computational and data analytic research. Key topics include---but are not limited to---Python fundamentals, data manipulation, web data collection, NLP/text-as-data, network analysis, machine learning, and visualization. The course integrates theoretical discussions with hands-on coding exercises, providing students with practical experience. Additionally, through applied projects, students will have the opportunity to apply and adapt their newly acquired skills to their own research.
+This course offers a comprehensive introduction to computational and data analytic methods tailored for data analytics in humanities and social sciences. Students will learn the core principles of programming along with essential skills for computational and data analytic research. Key topics include---but are not limited to---programming fundamentals, data manipulation, web data collection, NLP/text-as-data, network analysis, machine learning, and visualization. The course integrates theoretical discussions with hands-on coding exercises, providing students with practical experience. Additionally, through applied projects, students will have the opportunity to apply and adapt their newly acquired skills to their own research.
 
 ## Readings
-Students are not required to purchase any books for this course as it will not follow any textbook strictly. However, here are useful, freely available books:
+Students are not required to purchase any books for this course as it will not follow any textbook strictly. However, here are useful books:
 
-- McKinney, W., 2022. *Python for Data Analysis*. "O'Reilly Media, Inc." [link](https://jakevdp.giWedb.io/PythonDataScienceHandbook/)
-- VanderPlas, Jake. 2016. *Python Data Science Handbook: Essential Tools for Working with Data*. "O’Reilly Media, Inc." [link](https://wesmckinney.com/book/)
-- Wickham, H., Çetinkaya-Rundel, M. and Grolemund, G., 2023. *R for Data Science*. "O'Reilly Media, Inc." [link](https://r4ds.had.co.nz/index.html)
+- McKinney, W., 2022. *Python for Data Analysis*. O'Reilly Media, Inc. [link](https://jakevdp.giWedb.io/PythonDataScienceHandbook/)
+- VanderPlas, J., 2016. *Python Data Science Handbook: Essential Tools for Working with Data*. O'Reilly Media, Inc. [link](https://wesmckinney.com/book/)
+- Wickham, H., Çetinkaya-Rundel, M. and Grolemund, G., 2023. *R for Data Science*. O'Reilly Media, Inc. [link](https://r4ds.had.co.nz/index.html)
+- Raschka, S., Liu, Y. H., Mirjalili, V. and Dzhulgakov, D., 2022. *Machine Learning with PyTorch and Scikit-Learn: Develop Machine Learning and Deep Learning Models with Python*. Packt Publishing Ltd. [link](https://github.com/rasbt/machine-learning-book)
+- Jurafsky, D. and Martin, J. H. *Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition*. [link](https://web.stanford.edu/~jurafsky/slp3/)
+- Alammar, J. and Grootendorst, M., 2024. *Hands-On Large Language Models: Language Understanding and Generation*.
+- Grimmer, J., Roberts, M. E. and Stewart, B. M., 2022. *Text as Data: A New Framework for Machine Learning and the Social Sciences*.
+- Newman, M., 2018. *Networks*. Oxford University Press.
+- Menczer, F., Fortunato, S. and Davis, C. A., 2020. *A First Course in Network Science*. Cambridge University Press. [link](https://www.cambridge.org/highereducation/books/first-course-in-network-science/EE22722F27519D8BB1443C7225C57BAF)
+
 
 ## Major Tasks
+
 See below for the major tasks in the course.
 
 - **Attendance:** Students are required to attend all lectures unless they have exceptional circumstances that they have discussed with the instructor beforehand. Worth 10% of the final grade.
-- **Take-home Exercises:** There will be several exercises for Python fundamentals. The due dates are indicated in the weekly schedule below. Upload your completed exercise to [the take-home exercises folder](https://drive.google.com/drive/folders/1GLdKn-kti0rzBLz6PVjcV9XaaQMX_WcW?usp=share_link). At the end of Week 4, there will be an in-class quiz on the fundamentals covered in the exercises, to be completed without AI assistance. Worth 25% of the final grade.
+- **Take-home Exercises:** There will be several exercises for Python fundamentals. The due dates are indicated in the weekly schedule below. Upload your completed exercise to [the take-home exercises folder](). At the end of Week 4, there will be an in-class quiz on the fundamentals covered in the exercises, to be completed without AI assistance. Worth 25% of the final grade.
 - **Tutorial Presentation:** Students will deliver one tutorial presentation for approximately 10–15 minutes. Worth 25% of the final grade. [See details below.](#tutorial-presentation-details)
 - **Final Project:** Students must complete an original research paper that involves a significant amount of data work and present it during the final week of the course. The paper and presentation are worth 30% and 10% of the final grade, respectively. [See details below.](#final-project-details)
 
+
 ### Tutorial Presentation Details
-- The presentations serve a dual purpose: firstly, to provide non-presenting students with a deeper understanding of the techniques covered in that week, and secondly, to offer presenting students an opportunity to apply and adapt those techniques in their own data analysis tasks.
-- At the beginning of the tutorial, provide a clear overview that includes what the tutorial covers, the specific data being used, and any other relevant details.
-- During the presentations, students will showcase the implementation of techniques covered in the previous week using their own data, preferably related to their research projects.
-- They will guide the entire class through their script, explaining each line of code in detail, including the syntax when necessary. While it’s acceptable to skip over parts that are obvious or trivial, they should not simply gloss over sections or say, “this is it” without explanation.
-- Students are free to use any scripting tool, but Google Colaboratory is an effective choice for creating and presenting tutorials.
-- Tutorial presentations will be on Wedsday classes. Please sign up on [this spreadsheet](https://docs.google.com/spreadsheets/d/1wa8YIboKSAkvsyEXJp5HnoxdbDVOy3DQ6-cxgOAG-VE/edit?usp=sharing).
-- Be sure to provide the class with access to your script and data so that the whole class can follow as you walk through your tutorial by uploading them to [the tutorial materials folder](https://drive.google.com/drive/folders/1aUIVSVFlurWsJCVHpRsj-419cWdI6ti9?usp=share_link) prior to the presentation.
+
+- Overview
+  - The (paired) tutorial presentations serve two purposes: first, to provide non-presenting students with a deeper understanding of the techniques covered in the previous week, and second, to give presenting students an opportunity to apply and adapt those techniques to their own data analysis tasks.
+  - During the presentation, students will demonstrate the implementation of techniques covered in the previous week using their own data, preferably data related to their research projects.
+
+- Guidelines
+  - Students are free to use any scripting environment, although Google Colaboratory is a convenient option for creating and presenting tutorials.
+  - At the beginning of the tutorial, provide a clear overview of what the tutorial covers, the data being used, and any other information necessary for the class to follow the presentation.
+  - Guide the class through your script and explain each block of code, including individual lines and syntax when necessary. You may skip parts only when they are too obvious or trivial, but you should not gloss over code without explaining what it does and why it is used. The tutorial should therefore be designed at a level of complexity that can be thoroughly explained within the allotted time. Code that is unnecessarily complex, difficult to understand, or difficult for the class to follow may result in a lower grade.
+  - You may use AI tools to assist with your work, subject to the **AI Policy** described above. AI should never be used to generate the entire script or its substantive portions. Instead, you may use it as an aid while working through the code---for example, to troubleshoot, brainstorm, or improve particular blocks of code. You are responsible for fully understanding any AI-AI-assisted code and must be able to explain it upon request. Being unable to explain your own code may result in a lower grade.
+
+- Timeline and materials
+  - Tutorial presentations will take place during **Wednesday classes**. Please sign up using [this spreadsheet](https://docs.google.com/spreadsheets/d/1wa8YIboKSAkvsyEXJp5HnoxdbDVOy3DQ6-cxgOAG-VE/edit?usp=sharing).
+  - Before your presentation, upload your script and data to [the tutorial materials folder]() and make sure they are accessible to the class so that everyone can follow along during the tutorial..
+
 
 ### Final Project Details
-- The primary objective is to guide students in building a comprehensive data-driven research pipeline that encompasses data collection, preprocessing, analysis, interpretation, and visualization.
-- Although students have the freedom to choose their preferred topic, they are required to work with data applying skills learned in the course. By applying and adapting these skills for their own research, students will not only demonstrate their mastery of programming fundamentals and data analytic skills but also gain a practical understanding of how what they learned in class can be effectively utilized in real-world research scenarios.
-- The project should focus on detailed methodological accounts of data collection, cleaning, manipulation, analysis, and visualization, rather than discussions of theories or prior literature.
-- Students are required to submit a one-page project proposal to [the proposals folder](https://drive.google.com/drive/folders/1KMcvlEffqt5CxbcfiWduQh8qUpn3FEl3?usp=share_link) by Oct 12 at 11:59pm  and will have a one-on-one meeting with the instructor to discuss their ideas in Week 7. Please sign up for your one-on-one meeting using [this spreadsheet](https://docs.google.com/spreadsheets/d/1Zap5dc5Wy6v2ZGdA2ihbnbaZnZ5JIdFQlsoPZnewpHg/edit?usp=sharing).
-- Students will deliver a short presentation of their papers (10 minutes) in the final week of the course. The paper should be around 3,000 words in length—excluding figures, tables, and appendices—and should be uploaded, along with replication materials, to [the final projects folder](https://drive.google.com/drive/folders/16OXp_brkYuLdZ-w_xOJXMNJULKpvEIKV?usp=share_link) by the end of the semester (Dec 19 11:59pm).
+
+- Overview
+  - The primary objective is to guide students in building a comprehensive data-driven research pipeline that encompasses data collection, preprocessing, analysis, interpretation, and visualization.
+  - Although students have the freedom to choose their preferred topic, they are required to work with data applying skills learned in the course. By applying and adapting these skills for their own research, students will not only demonstrate their mastery of programming fundamentals and data analytic skills but also gain a practical understanding of how what they learned in class can be effectively utilized in real-world research scenarios.
+  - The project should focus on detailed methodological accounts of data collection, cleaning, manipulation, analysis, and visualization, rather than discussions of theories or prior literature.
+
+- Guidelines 
+  - Students may not simply submit a project that was substantially developed prior to this course. However, they may build on an ongoing project, provided that they make substantive new contributions as part of the course. In such cases, students must clearly disclose what work had been completed before the start of the course project and include a one-paragraph description of this prior work in the final paper as a first footnote.
+  - Collaborative projects are allowed. However, if the project involves collaborators, students must clearly describe their own independent contributions to the project. A one-page contribution statement, signed by all collaborators, must be included in the final paper.
+
+- Timeline and materials
+  - Students are required to submit a one-page project proposal to [the proposals folder]() by Oct 12 at 11:59pm  and will have a one-on-one meeting with the instructor to discuss their ideas in Week 7. Please sign up for your one-on-one meeting using [this spreadsheet]().
+  - Students will deliver a short presentation of their papers (10 minutes) in the final week of the course. The paper should be around 3,000 words in length—excluding figures, tables, and appendices—and should be uploaded, along with replication materials, to [the final projects folder]() by the end of the semester (Dec 19 11:59pm).
+
 
 ## AI Use Policy
 
-The use of generative AI tools is permitted in this course and can be a valuable aid in your learning process (but NOT a replacement for it).
+The use of generative AI tools is **not prohibited** in this course and can be a valuable aid in your learning process (but NOT a replacement for it). However, it is essential that you deeply understand the logic behind any code you write or use. This is the case both when you are building foundational programming skills (e.g., recursion, branching, loops) and when you use more advanced techniques (e.g., clustering embeddings, building predictive models).
 
-Especially in the early stages of learning—when you’re building foundational programming skills (e.g., recursion, branching, loops) as well as more advanced techniques (e.g., clustering embeddings, building predictive models)—it is essential that you deeply understand the logic behind any code you write or use.
-
-Relying on AI-generated code without comprehension is harmful. You are expected to invest the time and effort to work through tasks independently, reason through the structure of your approaches, and understand the purpose of each line of code.
+Relying on AI-generated code without comprehension is harmful (and many academic research demonstrates it). You are expected to invest the time and effort to work through tasks independently, reason through the structure of your approaches, and understand the purpose of each line of code.
 
 Recommended use: AI tools may be helpful when used carefully. Here are some recommended practices:
 - Start with your own thinking: Before turning to an AI tool, try to solve the task yourself. Think critically about the task, and write your own code first.
 - Use AI for guidance when stuck: when you are stuck, it is okay to consult an AI assistant to help you troubleshoot or think through possible approaches. Use it as a conversational partner, not a shortcut.
-- Seek improvements: Once you have written a working solution, you can use AI to explore how your code might be enhanced—for example, in terms of readability, scalability, etc.
+- Seek improvements. Once you have written a working solution, you can use AI to explore how your code might be enhanced—for example, in terms of readability, scalability, etc.
 - Validate, validate, and validate: Never use AI-assisted code without reviewing each line. Make sure the code you write does exactly what you intend.
 
 Finally, be sure to indicate whether and how you used AI in any work you submit, including take-home exercises, tutorials, and final projects.
