@@ -66,7 +66,7 @@ See below for the major tasks in the course.
 
 - Timeline and materials
   - Tutorial presentations will take place during **Wednesday classes**. Please sign up using [this spreadsheet](https://docs.google.com/spreadsheets/d/1wa8YIboKSAkvsyEXJp5HnoxdbDVOy3DQ6-cxgOAG-VE/edit?usp=sharing).
-  - Before your presentation, upload your script and data to [the tutorial materials folder]() and make sure they are accessible to the class so that everyone can follow along during the tutorial..
+  - Before your presentation, upload your script and data to [the tutorial materials folder](https://drive.google.com/drive/folders/1G23mXprLNqc1zVWHyl_JTVvwkev9ZafJ?usp=share_link) and make sure they are accessible to the class so that everyone can follow along during the tutorial..
 
 
 
@@ -82,8 +82,8 @@ See below for the major tasks in the course.
   - Collaborative projects are allowed. However, if the project involves collaborators, students must clearly describe their own independent contributions to the project. A one-page contribution statement, signed by all collaborators, must be included in the final paper.
 
 - Timeline and materials
-  - Students are required to submit a one-page project proposal to [the proposals folder]() by Oct 10 at 11:59pm  and will have a one-on-one meeting with the instructor to discuss their ideas in Week 7. Please sign up for your one-on-one meeting using [this spreadsheet]().
-  - Students will deliver a short presentation of their papers (10 minutes) in the final week of the course. The paper should be around 3,000 words in length—excluding figures, tables, and appendices—and should be uploaded, along with replication materials, to [the final projects folder]() by the end of the semester (Dec 19 11:59pm).
+  - Students are required to submit a one-page project proposal to [the proposals folder](https://drive.google.com/drive/folders/15ZvDKCm2BURqE2ONmnto8f_J-24BJkCG?usp=share_link) by Oct 10 at 11:59pm  and will have a one-on-one meeting with the instructor to discuss their ideas in Week 7. Please sign up for your one-on-one meeting using [this spreadsheet](https://docs.google.com/spreadsheets/d/1wa8YIboKSAkvsyEXJp5HnoxdbDVOy3DQ6-cxgOAG-VE/edit?usp=sharing).
+  - Students will deliver a short presentation of their papers (10 minutes) in the final week of the course. The paper should be around 3,000 words in length—excluding figures, tables, and appendices—and should be uploaded, along with replication materials, to [the final projects folder](https://drive.google.com/drive/folders/1jtQDRN8pF0gc16grfkC5UlBoNGuf_PHI?usp=share_link) by the end of the semester (Dec 19 11:59pm).
 
 
 
@@ -217,24 +217,24 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
 
 ### Week 12: Nov 16 & 18
 
-- **Mon & Wed:** Text-as-data/NLP/LLM I
+- **Mon & Wed:** Text embeddings
   - ⭐ In-class exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
 
 
 ### Week 13: Nov 23 & 25
 
-- **Mon & Wed:** Text-as-data/NLP/LLM II
+- **Mon & Wed:** Text classification
   - ⭐ In-class exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
 
 
 ### Week 14: Nov 30 & Dec 2
 
-- **Mon & Wed:** Machine learning I (supervised)
+- **Mon & Wed:** Supervised machine learning
   - ⭐ In-class exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
 
 
 ### Week 15: Dec 7 & Dec 9
-- **Mon & Wed:** Machine learning II (unsupervised)
+- **Mon & Wed:** Unsupervised machine learning
   - ⭐ In-class exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
 
 ### Week 16: Dec 14 & 16
