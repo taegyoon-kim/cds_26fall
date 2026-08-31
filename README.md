@@ -11,11 +11,13 @@
 - **Email:** taegyoon@kaist.ac.kr
 - **Personal webpage:** [link](https://taegyoon-kim.github.io)
 
+
+
 ## Teaching Assistant
 
 - **Name:** Hyeongjae Lee, Ph.D. Student | Computational Social Science
 - **Email:** hyeongjaelee@kaist.ac.kr
-- **Personal webpage:** [link]([https://taegyoon-kim.github.io](https://www.linkedin.com/in/hyeongjaelee/))
+- **Personal webpage:** [link](https://www.linkedin.com/in/hyeongjaelee)
 
 
 
