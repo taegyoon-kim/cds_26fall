@@ -7,9 +7,15 @@
 
 ## Instructor
 
-- **Name:** Taegyoon Kim, Ph.D. in Political Science and Social Data Analytics
+- **Name:** Taegyoon Kim, Ph.D. | Political Science and Computational Social Science
 - **Email:** taegyoon@kaist.ac.kr
-- **Personal webpage:** [https://taegyoon-kim.github.io](https://taegyoon-kim.github.io)
+- **Personal webpage:** [link](https://taegyoon-kim.github.io)
+
+## Teaching Assistant
+
+- **Name:** Hyeongjae Lee, Ph.D. Student | Computational Social Science
+- **Email:** hyeongjaelee@kaist.ac.kr
+- **Personal webpage:** [link]([https://taegyoon-kim.github.io](https://www.linkedin.com/in/hyeongjaelee/))
 
 
 
