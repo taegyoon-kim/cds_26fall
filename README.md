@@ -134,7 +134,7 @@ Grade values will not be rounded. That is, any grade value that is greater than 
 
 ## Course Schedule
 
-The course schedule is detailed in the weekly breakdown below. **The course slides can be found [here](https://rpubs.com/taegyoon)** (see [here]() for the source files).
+The course schedule is detailed in the weekly breakdown below. **The course slides can be found [here](https://connect.posit.cloud/taegyoon)**.
 
 
 ### Week 1: Aug 31 & Sep 2
