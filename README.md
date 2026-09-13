@@ -143,7 +143,7 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
 
 - **Wed:** Branching and iteration
   - ⭐ Take-home exercise 1 questions (due date: 11:59pm Sep 9) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15O9UEi51sQJsEj1_R5zp4aYbp18FCy4c?usp=sharing)
-  - 🌟 Take-home exercise 1 example solutions <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([YOUR_COLAB_LINK](https://colab.research.google.com/drive/1c_n74Tqo2tmh2q-J-Kgr7yphZ-zzD0-x?usp=sharing))-->
+  - 🌟 Take-home exercise 1 example solutions  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c_n74Tqo2tmh2q-J-Kgr7yphZ-zzD0-x?usp=sharing)
 
 
 ### Week 2: Sep 7 & 9
@@ -153,14 +153,14 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
   - 🌟 Take-home exercise 2 example solutions <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
 
 - **Wed:** Functions, modules, and exceptions
-  - ⭐ Take-home exercise 3 questions (due date: 11:59pm Sep 16) <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
+  - ⭐ Take-home exercise 3 questions (due date: 11:59pm Sep 19) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1h3tS8vIvX37qFE-FTMkfHHE6OaPLOPh9?usp=sharing)
   - 🌟 Take-home exercise 3 example solutions <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
 
 
 ### Week 3: Sep 14 & 16
 
 - **Mon:** Dictionaries, sets, and recursion
-  - ⭐ Take-home exercise 4 questions (due date: 11:59pm Sep 21) <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
+  - ⭐ Take-home exercise 4 questions (due date: 11:59pm Sep 21) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PyWiCfTY3wGdpMX6V57KiE5smHTjgD6P?usp=sharing)
   - 🌟 Take-home exercise 4 example solutions <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
 
 - **Wed:** NumPy and Pandas I
