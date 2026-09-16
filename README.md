@@ -164,15 +164,13 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
   - 🌟 Take-home exercise 4 example solutions <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
 
 - **Wed:** NumPy and Pandas I
-  - ⭐ Take-home exercise 5 questions (due date: 11:59pm Sep 23)<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
-  - 🌟 Take-home exercise 5 example solutions <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
 
 
 ### Week 4: Sep 21 & 23
 
 - **Mon:** NumPy and Pandas II
-  - ⭐ Take-home exercise 6 questions (due date: 11:59pm Sep 28) <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
-  - 🌟 Take-home exercise 6 example solutions <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
+  - ⭐ Take-home exercise 5 questions (due date: 11:59pm Sep 28) <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
+  - 🌟 Take-home exercise 5 example solutions <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
 
 - **Wed:** Python Fundamentals Quiz 
   - ⭐ Quiz <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
