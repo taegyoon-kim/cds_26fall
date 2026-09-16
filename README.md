@@ -150,11 +150,11 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
 
 - **Mon:** String manipulation, tuples, and lists
   - ⭐ Take-home exercise 2 questions (due date: 11:59pm Sep 14) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ADhwlMWt1cmPCAlHIPSpvjkmDk8NWjVu?usp=sharing)
-  - 🌟 Take-home exercise 2 example solutions <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
+  - 🌟 Take-home exercise 2 example solutions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x2zAe6kHEVEFg-f-k7JwDkgqaqUKaS_e?usp=sharing)
 
 - **Wed:** Functions, modules, and exceptions
   - ⭐ Take-home exercise 3 questions (due date: 11:59pm Sep 19) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1h3tS8vIvX37qFE-FTMkfHHE6OaPLOPh9?usp=sharing)
-  - 🌟 Take-home exercise 3 example solutions <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
+  - 🌟 Take-home exercise 3 example solutions <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10KvllEQdTnNK8Z7tdcocN4bFi3oBFc_W?usp=sharing)-->
 
 
 ### Week 3: Sep 14 & 16
