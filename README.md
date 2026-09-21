@@ -169,7 +169,7 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
 ### Week 4: Sep 21 & 23
 
 - **Mon:** NumPy and Pandas II
-  - ⭐ Take-home exercise 5 questions (due date: 11:59pm Sep 28) <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
+  - ⭐ Take-home exercise 5 questions (due date: 11:59pm Sep 28) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L_ETAj4EAnzvadwsbRWZa13vjRxqrBZz?usp=sharing)
   - 🌟 Take-home exercise 5 example solutions <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
 
 - **Wed:** Python Fundamentals Quiz 
