@@ -154,7 +154,7 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
 
 - **Wed:** Functions, modules, and exceptions
   - ⭐ Take-home exercise 3 questions (due date: 11:59pm Sep 19) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1h3tS8vIvX37qFE-FTMkfHHE6OaPLOPh9?usp=sharing)
-  - 🌟 Take-home exercise 3 example solutions <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10KvllEQdTnNK8Z7tdcocN4bFi3oBFc_W?usp=sharing)-->
+  - 🌟 Take-home exercise 3 example solutions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10KvllEQdTnNK8Z7tdcocN4bFi3oBFc_W?usp=sharing)
 
 
 ### Week 3: Sep 14 & 16
