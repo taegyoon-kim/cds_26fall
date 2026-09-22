@@ -51,7 +51,8 @@ See below for the major tasks in the course.
 
 - **Programming Exercises:** Students will complete a series of take-home exercises covering core Python fundamentals, including branching and iteration; string manipulation; tuples and lists; functions, modules, and exceptions; dictionaries, sets, and recursion; and NumPy and Pandas. These exercises are designed to develop independent programming and problem-solving skills. Because developing these skills is a primary objective of the exercises, the use of AI tools is not permitted. Due dates are indicated in the weekly schedule below. Upload your completed exercises to [the take-home exercises folder](https://drive.google.com/drive/folders/1UqukNTnMuXG2rN_I8yLu44cma-_-whg4?usp=share_link). Worth 5% of the final grade.
 
-- **Programming Quizzes:** There will be two in-class quizzes covering the programming fundamentals taught in the course. The quizzes will be held on **Sep 23** and must be completed without the use of AI tools. Worth 15% of the final grade.
+- **Programming Quiz:** There will be an in-class quiz covering the programming fundamentals taught in the course. The quizz will be held on **Sep 23** and must be completed without the use of AI tools. Worth 15% of the final grade.
+
 - **Analytic Exercises:** There will be three take-home exercises covering the methods introduced from Sep 28 onward.
 
 - **Tutorial Presentation:** Students will deliver one tutorial presentation for approximately 10–15 minutes. Worth 25% of the final grade. [See details below.](#tutorial-presentation-details)
@@ -173,7 +174,7 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
   - 🌟 Take-home exercise 5 example solutions <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
 
 - **Wed:** Python Fundamentals Quiz 
-  - ⭐ Quiz <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
+  - ⭐ Quiz <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1J0kdVeIuudS22FuHVtcUQ5WHhzyi1Wpj?usp=sharing)-->
 
 
 ### Week 5: Sep 28 & 30
