@@ -162,7 +162,7 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
 
 - **Mon:** Dictionaries, sets, and recursion
   - ⭐ Take-home exercise 4 questions (due date: 11:59pm Sep 21) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PyWiCfTY3wGdpMX6V57KiE5smHTjgD6P?usp=sharing)
-  - 🌟 Take-home exercise 4 example solutions <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
+  - 🌟 Take-home exercise 4 example solutions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([YOUR_COLAB_LINK](https://colab.research.google.com/drive/1S_9DOJwO4h1qtVobNCVjWDOeHCN2oRW3?usp=sharing))
 
 - **Wed:** NumPy and Pandas I
 
