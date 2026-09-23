@@ -174,7 +174,7 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
   - 🌟 Take-home exercise 5 example solutions <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
 
 - **Wed:** Python Fundamentals Quiz 
-  - ⭐ Quiz <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1J0kdVeIuudS22FuHVtcUQ5WHhzyi1Wpj?usp=sharing)-->
+  - ⭐ Quiz [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1J0kdVeIuudS22FuHVtcUQ5WHhzyi1Wpj?usp=sharing)
 
 
 ### Week 5: Sep 28 & 30
