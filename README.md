@@ -175,13 +175,14 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
 
 - **Wed:** Python Fundamentals Quiz 
   - ⭐ Quiz [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1J0kdVeIuudS22FuHVtcUQ5WHhzyi1Wpj?usp=sharing)
+  - 🌟 Quiz example solutions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1R5go5y_BNXWbM6bD6RRfpKhixbN0nKlX?usp=sharing)
 
 
 ### Week 5: Sep 28 & 30
 
 - **Mon & Wed:** Visualization
-  - [Lecture notebook]()
-  - ⭐ In-class exercise <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
+  - Lecture notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1r8Vux15IJoIFTsyVeOc4iX6BHCkH8ND1?usp=sharing)
+  - ⭐ In-class exercise [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QS27PH-Paw8Gi45ErRepq5F67sOToTVR?usp=sharing)
 
 ### Week 6: Oct 5 & 7
 
