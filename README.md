@@ -206,44 +206,44 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
 ### Week 9: Oct 26 & 28
 
 - **Mon & Wed:** Interacting with API
-  - [Lecture notebook]()
-  - ⭐ In-class exercise: <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
+  - Lecture notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1whFR4194KvWlEKA6_sI0xXDG9BhJz89i?usp=sharing
+)
+  - ⭐ In-class exercise [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lTSjBjXXVPYVcH59qf1R3oSLiI8IhC0i?usp=sharing)
 
- 
 ### Week 10: Nov 2 & 4
 
 - **Mon & Wed:** Web scraping
-  - [Lecture notebook]()
-  - ⭐ In-class exercise: <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
+  - Lecture notebook <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
+  - ⭐ In-class exercise <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
 
 
 ### Week 11: Nov 9 & 11
 
 - **Mon & Wed:** Network analysis
-  - ⭐ In-class exercise: <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
+  - ⭐ In-class exercise <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
 
 
 ### Week 12: Nov 16 & 18
 
 - **Mon & Wed:** Text embeddings
-  - ⭐ In-class exercise: <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
+  - ⭐ In-class exercise <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
 
 
 ### Week 13: Nov 23 & 25
 
 - **Mon & Wed:** Text classification
-  - ⭐ In-class exercise: <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
+  - ⭐ In-class exercise <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
 
 
 ### Week 14: Nov 30 & Dec 2
 
 - **Mon & Wed:** Supervised machine learning
-  - ⭐ In-class exercise: <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
+  - ⭐ In-class exercise <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
 
 
 ### Week 15: Dec 7 & Dec 9
 - **Mon & Wed:** Unsupervised machine learning
-  - ⭐ In-class exercise: <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
+  - ⭐ In-class exercise <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
 
 ### Week 16: Dec 14 & 16
 - **Mon & Wed:** Poster session
