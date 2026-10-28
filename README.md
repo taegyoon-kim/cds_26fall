@@ -53,7 +53,7 @@ See below for the major tasks in the course.
 
 - **Programming Quiz:** There will be an in-class quiz covering the programming fundamentals taught in the course. The quizz will be held on **Sep 23** and must be completed without the use of AI tools. Worth 15% of the final grade.
 
-- **Analytic Exercises:** There will be three take-home exercises covering the methods introduced from Sep 28 onward.
+- **Analytic Exercises:** There will be take-home exercises covering the methods introduced from Sep 28 onward.
 
 - **Tutorial Presentation:** Students will deliver one tutorial presentation for approximately 10–15 minutes. Worth 25% of the final grade. [See details below.](#tutorial-presentation-details)
 
