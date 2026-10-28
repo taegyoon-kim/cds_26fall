@@ -209,7 +209,7 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
   - Lecture notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1whFR4194KvWlEKA6_sI0xXDG9BhJz89i?usp=sharing
 )
   - ⭐ In-class exercise [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lTSjBjXXVPYVcH59qf1R3oSLiI8IhC0i?usp=sharing)
-  - ⭐ Take-home exercise [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MtZ09g_HuxwRjD8MOlPNDf0V8DKQdRpa?usp=sharing)
+  - ⭐ Take-home exercise [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gIdknNqElNfsfTnLvxCdQS0U8SJ9UVzL?usp=sharing)
 
 ### Week 10: Nov 2 & 4
 
