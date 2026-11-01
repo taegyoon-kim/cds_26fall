@@ -211,11 +211,11 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
   - ⭐ In-class exercise [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lTSjBjXXVPYVcH59qf1R3oSLiI8IhC0i?usp=sharing)
   - ⭐ Take-home exercise [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gIdknNqElNfsfTnLvxCdQS0U8SJ9UVzL?usp=sharing) (due date: 11:59pm Nov 6) 
 
+
 ### Week 10: Nov 2 & 4
 
 - **Mon & Wed:** Web scraping
-  - Lecture notebook <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
-  - ⭐ In-class exercise <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
+  - ⭐ In-class exercise <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1neJSzuvAqGQM1X8GfVp6kAC2GLCpzd2A?usp=sharing)-->
 
 
 ### Week 11: Nov 9 & 11
