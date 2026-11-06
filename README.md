@@ -189,7 +189,6 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
 - **Mon:** No class (substitute holiday)
 
 - **Wed:** GIS and Spatial Analysis (guest lecture by Prof. Seonga Cho)
-  - [Lecture notebook]()
 
 ### Week 7: Oct 12 & Oct 14
 
