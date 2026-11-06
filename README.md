@@ -221,7 +221,7 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
 ### Week 11: Nov 9 & 11
 
 - **Mon & Wed:** Network analysis
-  - ⭐ In-class exercise <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)-->
+  - Lecture notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uYGHfh59rdrwzfNwICV44ahRJJa9wOu-?usp=sharing)
 
 
 ### Week 12: Nov 16 & 18
